@@ -18,8 +18,3 @@ while True:
 
 for j in range(len(streams)):
     print(int(streams[j]), end=' ')
-
-'''Italian unification success name some people'''
-'''italy cant unify itself'''
-'''bismarck foreign including unification'''
-'''bismarck domestic policy'''
